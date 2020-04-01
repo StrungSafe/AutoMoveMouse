@@ -1,0 +1,1 @@
+powershell "./movemousescript.ps1"
